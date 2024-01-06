@@ -18,3 +18,7 @@ If the IP address has not been reported and exhibits malicious behavior, a detai
 - Examining the email's subject, timestamp, and sender details, including the return-path or reply-to in the header, allows me to deduce its intended recipient, purpose, potential harm, time of occurrence, and origin for further verification.
 - Conducting a reverse DNS lookup on the originating IP address, we utilize whois.domaintools.com to identify the resolved host. This step helps in associating the IP with a specific domain, providing valuable information for tracing the email's origin.
 - To visualize the content of webpages linked within the email, I used URL2PNG. This allows us to preview potentially harmful websites without directly accessing them, enhancing safety measures during the investigation.
+
+# Analysis Details
+
+<h2>Header Analysis</h2>
