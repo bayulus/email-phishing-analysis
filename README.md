@@ -1,6 +1,6 @@
 # Investigating Phishing Email Analysis
 
-<img src="https://github.com/bayulus/azure-honeynet-livetraffic/blob/main/Blue%20Minimalist%20Profesional%20Personal%20Linkedln%20Banner.png?raw=true" >
+<img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/phi.png?raw=true" >
 
 <p>Welcome to my Phishing Email Analysis Project! In this repository, I take a deep dive into the analysis of a suspicious phishing email to unravel its intricacies and pinpoint potential threats. Phishing attacks persist as significant cybersecurity threats, making it crucial for me to understand the tactics employed by malicious actors. My primary goal with this project is to meticulously document the various components of the phishing email, ranging from its header information to the content and any associated indicators of compromise (IOCs). By sharing my analysis, I aim to contribute to the collective knowledge, empowering users and organizations to recognize and effectively mitigate phishing threats. <b>Feel free to explore, contribute, or use the insights gained here to enhance your cybersecurity knowledge</b>.</p>
 
