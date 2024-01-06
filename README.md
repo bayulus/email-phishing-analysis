@@ -21,4 +21,6 @@ If the IP address has not been reported and exhibits malicious behavior, a detai
 
 # Analysis Details
 
-  <h2>1. Header Analysis</h2>
+<h2>1. Header Analysis</h2>
+<p>Email headers contain crucial information about the origin and path of an email. Analyzing these headers can provide insights into the legitimacy and potential threats associated with the message.</p>
+
