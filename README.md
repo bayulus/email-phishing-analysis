@@ -7,6 +7,8 @@
 <h2>Steps Taken: Investigating a Suspicious Email</h2>
 <p>A user reported receiving a suspicious email that raised concerns about a potential phishing attempt. This case study documents the step-by-step analysis of the email to uncover its details and identify indicators of compromise (IOCs). Various tools were employed to dissect the email and assess potential threats.</p>
 
+<img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/lily_suspicious_report.png?raw=true" >
+
   - Extracted and analyzed the email header to understand its origin.
   - To further dissect and decode data, I leverage the capabilities of CyberChef. This powerful tool aids in the analysis and interpretation of encoded content, making it easier to uncover hidden information or malicious intent within the email.
   - I use MxLookup to verify Sender Policy Framework (SPF) and DomainKeys Identified Mail (DKIM). This step ensures the authenticity of the sender and guards against phishing attempts by confirming that the email originates from an authorized source.
