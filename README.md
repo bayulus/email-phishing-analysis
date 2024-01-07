@@ -3,6 +3,16 @@
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/phi.png?raw=true" >
 
 <p>Welcome to my Phishing Email Analysis Project! In this repository, I take a deep dive into the analysis of a suspicious phishing email to unravel its intricacies and pinpoint potential threats. Phishing attacks persist as significant cybersecurity threats, making it crucial for me to understand the tactics employed by malicious actors. My primary goal with this project is to meticulously document the various components of the phishing email, ranging from its header information to the content and any associated indicators of compromise (IOCs). By sharing my analysis, I aim to contribute to the collective knowledge, empowering users and organizations to recognize and effectively mitigate phishing threats. <b>Feel free to explore, contribute, or use the insights gained here to enhance your cybersecurity knowledge</b>.</p>
+<br>
+
+💻 **Tools Used For This Project:** 🛠️
+
+![Static Badge](https://img.shields.io/badge/CYBERCHEF-blue?style=flat-square)
+![Static Badge](https://img.shields.io/badge/MXLOOKUP-blue?style=flat-square)
+![Static Badge](https://img.shields.io/badge/VIRUSTOTAL-blue?style=flat-square)
+![Static Badge](https://img.shields.io/badge/ABUSEIPDB-blue?style=flat-square)
+![Static Badge](https://img.shields.io/badge/VISUAL%20STUDIO-blue?style=flat-square&logo=visualstudio)
+
 
 # End-End Case Study of The Steps Taken
 <p>A user reported receiving a suspicious email that raised concerns about a potential phishing attempt that poses as a communication from Adobe Support, urging the recipient to update their Adobe software.  This incident raises concerns of a potential phishing attempt targeting Adobe users. This case study documents the step-by-step analysis of the email to uncover its details and identify indicators of compromise (IOCs). Various tools were employed to dissect the email and assess potential threats.</p>
@@ -82,6 +92,8 @@ If the IP address has not been reported and exhibits malicious behavior, a detai
   - Deploy Endpoint Detection and Response (EDR) solutions like **Crowdstrike** to monitor and respond to advanced threats on endpoints, providing real-time visibility into potential malicious activities.
   - Employ User Behavior Analytics solutions to detect anomalous behavior patterns that may indicate a security threat.
   - Utilize SIEM solutions to collect, analyze, and correlate log data from various sources, helping in the detection of security incidents and providing a centralized view of the organization's security posture.
+
+<br>
 
 [![Static Badge](https://img.shields.io/badge/Check%20Out%20Azure%20Sentinel%20Real%20Live%20Threat%20Detection%20Here-blue)](https://github.com/bayulus/azure-honeynet-livetraffic)
 
