@@ -80,8 +80,11 @@ If the IP address has not been reported and exhibits malicious behavior, a detai
   - Conduct regular cybersecurity training for employees, emphasizing the importance of recognizing and reporting phishing attempts.
   - Implement robust email filtering systems, including advanced tools like **Proofpoint and Inky**, to automatically detect and quarantine suspicious emails before they reach users' inboxes.
   - Deploy Endpoint Detection and Response (EDR) solutions like **Crowdstrike** to monitor and respond to advanced threats on endpoints, providing real-time visibility into potential malicious activities.
-  - Utilize SIEM solutions to collect, analyze, and correlate log data from various sources, helping in the detection of security incidents and providing a centralized view of the organization's security posture.
   - Employ User Behavior Analytics solutions to detect anomalous behavior patterns that may indicate a security threat.
+  - Utilize SIEM solutions to collect, analyze, and correlate log data from various sources, helping in the detection of security incidents and providing a centralized view of the organization's security posture.
+
+[![Static Badge](https://img.shields.io/badge/Check%20Out%20Azure%20Sentinel%20Real%20Live%20Threat%20Detection%20Here-blue)](https://github.com/bayulus/azure-honeynet-livetraffic)
+
 
 
 
