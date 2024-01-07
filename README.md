@@ -32,8 +32,17 @@ If the IP address has not been reported and exhibits malicious behavior, a detai
 <p>In my analysis to trace any email's origin, I first check the "X-Sender-IP" header. I extract and validate the IP address, making sure it aligns with the expected sources in  the first "Received" header from the bottom. Alternatively, I also use <b>CyberChef</b> to easily extract IPs and URLs in the received header and then cross-check.</p>
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/3.PNG?raw=true" >
 
-**Alternatively using CyberChef To extract all IPS present in the email header**
+***Alternatively use CyberChef To extract all IPs present in the email header***
+
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/4.PNG?raw=true">
+
+<p>While it's evident that the email is not from a legitimate source due to its use of a public email address, let's consider this for demonstration purposes. To evaluate the email's legitimacy, it's crucial to assess the presence of key authentication mechanisms. Check for SPF (Sender Policy Framework), DKIM (DomainKeys Identified Mail), and DMARC (Domain-based Message Authentication, Reporting, and Conformance) records. These mechanisms play a vital role in enhancing email authentication, helping to verify the legitimacy of the email.</p>
+
+***Using MxLookup for SPF/DKIM Check***
+
+<img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/5.PNG?raw=true" >
+
+
 
 
 
