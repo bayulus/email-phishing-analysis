@@ -46,6 +46,8 @@ If the IP address has not been reported and exhibits malicious behavior, a detai
 
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/5.PNG?raw=true" >
 
+<h2>2. Content/Attachment/Link Analysis</h2>
+
 
 
 
