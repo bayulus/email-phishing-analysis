@@ -55,7 +55,7 @@ If the IP address has not been reported and exhibits malicious behavior, a detai
 
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/8.PNG?raw=true" >
 
-***The email requests users to follow a link to download an executable file ("payload.exe"). By using URL2PNG.COM  I captured a visual representation of the content hosted on http://vmi1159541.contaboserver.net as shown below.***
+***The email requests users to follow a link to download an executable file ("payload.exe"). By using URL2PNG.COM  I captured a visual representation of the content hosted on vmi1159541.contaboserver.net as shown below.***
 
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/9.PNG?raw=true" >
 
@@ -63,8 +63,25 @@ If the IP address has not been reported and exhibits malicious behavior, a detai
 
   - **209.85.215.170**
   - **alfredegov@gmail.com**
-  - **http://vmi1159541.contaboserver.net**
+  - **vmi1159541.contaboserver.net**
   - **Jason Conrad**
+
+# Mitigation and Recommendations
+<h2>For Users</h2>
+
+  - Hover over hyperlinks to preview the actual URL before clicking. Ensure that the displayed link matches the expected destination.
+  - Always verify the authenticity of emails, especially those urging immediate action. Contact the purported sender through official channels to confirm the legitimacy of requests
+  - Refrain from opening attachments or downloading files from unknown or unexpected sources. If in doubt, contact the sender or your security team directly to confirm the legitimacy of the file.
+  - Report any suspicious emails to your organization's IT or security team, helping to identify and mitigate potential threats.
+  - Stay informed about common phishing tactics and attend security awareness training programs to recognize and avoid potential threats.
+
+<h2>For Organizations</h2>
+
+  - Conduct regular cybersecurity training for employees, emphasizing the importance of recognizing and reporting phishing attempts.
+  - Implement robust email filtering systems, including advanced tools like **Proofpoint and Inky**, to automatically detect and quarantine suspicious emails before they reach users' inboxes.
+  - Deploy Endpoint Detection and Response (EDR) solutions like **Crowdstrike** to monitor and respond to advanced threats on endpoints, providing real-time visibility into potential malicious activities.
+  - Utilize SIEM solutions to collect, analyze, and correlate log data from various sources, helping in the detection of security incidents and providing a centralized view of the organization's security posture.
+  - Employ User Behavior Analytics solutions to detect anomalous behavior patterns that may indicate a security threat.
 
 
 
