@@ -55,7 +55,7 @@ If the IP address has not been reported and exhibits malicious behavior, a detai
 
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/8.PNG?raw=true" >
 
-***The email requests users to follow a link to download an executable file ("payload.exe").   use URL2PNG.COM  to capture a visual representation of the content hosted on http://vmi1159541.contaboserver.net as shown below.***
+***The email requests users to follow a link to download an executable file ("payload.exe"). By using URL2PNG.COM  I captured a visual representation of the content hosted on http://vmi1159541.contaboserver.net as shown below.***
 
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/9.PNG?raw=true" >
 
