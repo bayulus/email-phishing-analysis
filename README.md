@@ -32,6 +32,8 @@ If the IP address has not been reported and exhibits malicious behavior, a detai
 <p>In my analysis to trace any email's origin, I first check the "X-Sender-IP" header. I extract and validate the IP address, making sure it aligns with the expected sources in  the first "Received" header from the bottom. Alternatively, I also use <b>CyberChef</b> to easily extract IPs and URLs in the received header and then cross-check.</p>
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/3.PNG?raw=true" >
 
+**Alternatively using CyberChef To extract all IPS present in the email header**
+<img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/4.PNG?raw=true">
 
 
 
