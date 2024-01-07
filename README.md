@@ -1,4 +1,4 @@
-# Investigating Phishing Email Analysis
+# Investigating Phishing Email - Analysis
 
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/phi.png?raw=true" >
 
