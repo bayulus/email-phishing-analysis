@@ -36,11 +36,17 @@ If the IP address has not been reported and exhibits malicious behavior, a detai
 
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/4.PNG?raw=true">
 
+***Using AbuseIPDB to scrutinize any reported incidents and also get more information from the originating IP Address***
+
+<img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/6.PNG?raw=true" >
+
 <p>While it's evident that the email is not from a legitimate source due to its use of a public email address, let's consider this for demonstration purposes. To evaluate the email's legitimacy, it's crucial to assess the presence of key authentication mechanisms. Check for SPF (Sender Policy Framework), DKIM (DomainKeys Identified Mail), and DMARC (Domain-based Message Authentication, Reporting, and Conformance) records. These mechanisms play a vital role in enhancing email authentication, helping to verify the legitimacy of the email.</p>
 
 ***Using MxLookup for SPF/DKIM Check***
 
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/5.PNG?raw=true" >
+
+
 
 
 
