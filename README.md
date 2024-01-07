@@ -25,7 +25,7 @@ If the IP address has not been reported and exhibits malicious behavior, a detai
 <p>Email headers contain crucial information about the origin and path of an email. Analyzing these headers can provide insights into the legitimacy and potential threats associated with the message. In summary, the email originated from a Google server, went through various authentication checks, and was routed through Outlook servers before reaching its final destination. The timestamps, protocols, and server details provide a detailed trace of the email's journey <b>as shown below. This information can help identify any unusual or suspicious patterns.</b></p>
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/2.PNG?raw=true" >
 
-<p>Examine the "From," "Reply-To," and "Return-Path" fields to identify the sender of the email. Verify the legitimacy of the sender's domain and cross-reference it with known information.</p>
+<p>Examining the "From,"  and "Return-Path" fields to identify the sender of the email. Verify the legitimacy of the sender's domain and cross-reference it with known information. <b>The result  raises a red flag because important updates from Adobe are typically delivered through official channels, and the use of a Gmail address typically indicates potential phishing<b/> </p>
 <img src="https://github.com/bayulus/phishing-email-analysis/blob/main/images/1.PNG?raw=true" >
 
 
